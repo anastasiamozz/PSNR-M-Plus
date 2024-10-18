@@ -13,4 +13,4 @@ Full Reference video quality assessment algorithm considering the features of th
 
 # Contact information
 
-If you would like more information, feel free to email your request to vladimir.a.mazin@gmail.com.
+If you would like more information, feel free to email your request to amozhaeva@eit.ac.nz
